@@ -1,1 +1,2 @@
-# Chemistry-Balancer
+Hello and welcome to my projects view.
+Chemistry Balancer is a web-based tool designed to help students balance chemical equations and solve mathematical problems related to science. It provides an easy-to-use interface for accurate and efficient equation balancing, making learning more interactive and accessible. Though its in developments stage its going to be very useful especially when its completed
